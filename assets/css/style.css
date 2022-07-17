@@ -1,0 +1,28 @@
+.text-nav {
+    font-family: 'Lobster', cursive;
+
+}
+
+.ricomida {
+    font-family: 'Lobster', cursive; 
+}
+
+.carousel-indicators {
+    bottom: -50px;
+}
+.carousel-indicators li {
+    background-color: rgb(31, 29, 29);
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+footer {
+    font-family: 'Lobster', cursive;
+}
+.card {
+    margin-bottom: 50px;
+}
+.card:hover {
+    background-color: gray;
+    cursor: pointer;
+}
