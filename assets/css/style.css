@@ -2,6 +2,10 @@
     font-family: 'Lobster', cursive;
 }
 
+.img-fluid {
+    margin-top: 25px;
+}
+
 .carousel-indicators {
     bottom: -50px;
 }
